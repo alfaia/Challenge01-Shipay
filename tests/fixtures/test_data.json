@@ -1,0 +1,10 @@
+{
+  "valid_cnpj": "00924432000199",
+  "invalid_cnpj_same_digits": "11111111111111",
+  "invalid_cnpj_wrong_dv": "12345678901234",
+  "invalid_cnpj_short": "12345678",
+  "valid_cep": "13288390",
+  "valid_cep_formatted": "13288-390",
+  "invalid_cep_same_digits": "00000000",
+  "invalid_cep_long": "123456789"
+}
